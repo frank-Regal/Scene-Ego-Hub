@@ -1,0 +1,14 @@
+repositories:
+  ./project/SceneEgo:
+    type: git
+    url: git@github.com:frank-Regal/SceneEgo.git
+    version: main 
+  ./project/EgocentricHumanBodySeg:
+    type: git
+    url: git@github.com:frank-Regal/EgocentricHumanBodySeg.git
+    version: main 
+  ./project/EgocentricDepthEstimator:
+    type: git
+    url: git@github.com:frank-Regal/EgocentricDepthEstimator.git
+    version: main 
+
